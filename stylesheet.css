@@ -7,6 +7,7 @@ body {
     border: 1px solid #222;
     border-radius: 8px;
     padding: 1rem;
+    order: -1;
   }
   
   .emoji h2 {
@@ -29,6 +30,7 @@ body {
   
   .icon {
     font-size: 4rem;
+    order:-1;
   }
   
   /*MY CODE FROM NOW ON*/
